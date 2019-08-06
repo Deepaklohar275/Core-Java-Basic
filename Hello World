@@ -1,19 +1,14 @@
-/**
- * 
- */
+
 package com.exception.project;
 
 /**
  * @author LDEEPAK
- *
  */
 public class BasicException {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		System.out.println(1);
 		int i =10/0;Exception
 		System.out.println(2);
 	}
+}
